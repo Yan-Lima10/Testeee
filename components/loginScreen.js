@@ -133,7 +133,7 @@ const styles = StyleSheet.create({
   },
 
   descriptionLogin: {
-    fontSize: 18,
+    fontSize: 17,
   },
 
   input: {
